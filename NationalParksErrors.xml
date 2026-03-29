@@ -72,7 +72,7 @@
 		<Name>Arches National Park</Name>
 		<!-- missing phone element -->
 		<Address NearestAirport="CNY">
-			<Number></Number>
+			<Number>77</Number>
 			<Street>Arches Entrance Rd</Street>
 			<City>Moab</City>
 			<State>UT</State>
@@ -108,8 +108,8 @@
 		<Name>Bryce Canyon National Park</Name>
 		<Phone>435-834-5322</Phone>
 		<Address NearestAirport="CDC">
-			<Number></Number>
-			<Street>Hwy 63</Street>
+			<Number>63</Number>
+			<Street>Hwy</Street>
 			<City>Bryce</City>
 			<State>UT</State>
 			<Zip>84764</Zip>
