@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<NationalPark> <!-- mislabeled -->
+<NationalPark xmlns="https://raw.githubusercontent.com/ar26-asu/CSE445-Assignment4/refs/heads/main/NationalParks.xsd"
+			   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			   xsi:schemaLocation="https://raw.githubusercontent.com/ar26-asu/CSE445-Assignment4/refs/heads/main/NationalParks.xsd https://raw.githubusercontent.com/ar26-asu/CSE445-Assignment4/refs/heads/main/NationalParks.xsd"> <!-- mislabeled -->
 
 	<!-- given example -->
 	<NationalPark Rating="4.9">
